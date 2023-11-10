@@ -33,10 +33,12 @@ En las siguientes imagenes se ven las pruebas realizadas a las rutas propuestas.
 &nbsp;
 
 ## Salida
+<p align="center">
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA15_200644/blob/main/DMI/API_VIDEOGAME/src/screenshots/Prueba1.png" width="100%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA15_200644/blob/main/DMI/API_VIDEOGAME/src/screenshots/Prueba2.png" width="100%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA15_200644/blob/main/DMI/API_VIDEOGAME/src/screenshots/Prueba3.png" width="100%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA15_200644/blob/main/DMI/API_VIDEOGAME/src/screenshots/Prueba4.png" width="100%"/>
+</p>
 
 
 
